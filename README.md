@@ -70,11 +70,7 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=RaucheAcho&show_icons=true&locale=fr&bg_color=0d1117&text_color=ffffff&repo=convoychat"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaucheAcho&locale=fr&layout=compact&langs_count=8&theme=algolia"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RaucheAcho&locale=fr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="RaucheAcho" />
-  <img height="189em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RaucheAcho&locale=fr"/>
-</p>
-
-<p align="center">
-  
+  <img height="189em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RaucheAcho&locale=fr&theme=dark"/>
 </p>
 
 ### 🤝🏻 &nbsp;Contactez-moi

@@ -66,14 +66,15 @@
 ![XD](https://img.shields.io/badge/-after-05122A?style=flat&logo=adobe-after-effects)
 ![XD](https://img.shields.io/badge/-premiere-05122A?style=flat&logo=adobe-premiere-pro)
 
-<p >
-<a href="https://github.com/RaucheAcho">
-  <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=RaucheAcho&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/>
-  <img align="right" width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaucheAcho&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p float="left" href="https://github.com/RaucheAcho">
+  <img  src="https://github-readme-stats.vercel.app/api?username=RaucheAcho&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaucheAcho&layout=compact&langs_count=8&theme=algolia"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RaucheAcho&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="RaucheAcho" />
+  <img height="189em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RaucheAcho"/>
 </p>
-<p align="">
-  <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaucheAcho&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="RaucheAcho" />
+
+<p align="center">
+  
 </p>
 
 ### 🤝🏻 &nbsp;Contactez-moi

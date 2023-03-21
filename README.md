@@ -16,21 +16,21 @@
 
 <h3 align="left">Retrouvez moi sur:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/raucheacho" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/raucheacho/github-readme-enhancer/main/src/images/icons/Social/linked-in-alt.svg"
+      alt="raucheacho" height="30" width="40" /></a>
+  <a href="https://fb.com/raucheacho" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/raucheacho/github-readme-enhancer/main/src/images/icons/Social/facebook.svg"
+      alt="raucheacho" height="30" width="40" /></a>
+  <a href="https://instagram.com/raucheacho" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/raucheacho/github-readme-enhancer/main/src/images/icons/Social/instagram.svg"
+      alt="raucheacho" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/raucheacho" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/raucheacho/github-readme-enhancer/main/src/images/icons/Social/youtube.svg"
+      alt="raucheacho" height="30" width="40" /></a>
  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      src="https://raw.githubusercontent.com/raucheacho/github-readme-enhancer/main/src/images/icons/Social/twitter.svg"
+      alt="raucheacho" height="30" width="40" /></a>
 </p>
 
 ### 🛠 &nbsp;Langages et outils:
@@ -67,10 +67,10 @@
 ![XD](https://img.shields.io/badge/-premiere-05122A?style=flat&logo=adobe-premiere-pro)
 
 <p float="left" href="https://github.com/RaucheAcho">
-  <img  src="https://github-readme-stats.vercel.app/api?username=RaucheAcho&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaucheAcho&layout=compact&langs_count=8&theme=algolia"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RaucheAcho&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="RaucheAcho" />
-  <img height="189em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RaucheAcho"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=RaucheAcho&show_icons=true&locale=fr&bg_color=0d1117&text_color=ffffff&repo=convoychat"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaucheAcho&locale=fr&layout=compact&langs_count=8&theme=algolia"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RaucheAcho&locale=fr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="RaucheAcho" />
+  <img height="189em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RaucheAcho&locale=fr"/>
 </p>
 
 <p align="center">

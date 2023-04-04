@@ -1,4 +1,4 @@
-![Bannière Rauche acho](https://scontent.fcmn1-2.fna.fbcdn.net/v/t39.30808-6/331531453_183281524446570_4842192609052876617_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeE4R3j8ofvWLIv0cfmkhIZUhgjysdYxuH2GCPKx1jG4ffAxEvssWqPkL5vaKJWv5B_D_1-oBrBzTQ9_fqpjmRVJ&_nc_ohc=Uh2Hont75cIAX8-PiTI&_nc_zt=23&_nc_ht=scontent.fcmn1-2.fna&oh=00_AfA42VRRFv4iQMMfMhrx96mBTpguA5Il2HIE3TpOj0EQZQ&oe=641F7B6A)
+![Bannière Rauche acho](./rauche%20banner.png)
 
 <img alt="Rauche Acho" src="https://avatars.githubusercontent.com/u/19928343?v=4" width='50' align="left"/><h1>Salut c'est rauche acho</h1>
 
@@ -17,19 +17,19 @@
 <h3 align="left">Retrouvez moi sur:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/raucheacho" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/raucheacho/github-readme-enhancer/main/src/images/icons/Social/linked-in-alt.svg"
+      src="./assets/linkedin.svg"
       alt="raucheacho" height="30" width="40" /></a>
   <a href="https://fb.com/raucheacho" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/raucheacho/github-readme-enhancer/main/src/images/icons/Social/facebook.svg"
+      src="./assets/facebook.svg"
       alt="raucheacho" height="30" width="40" /></a>
   <a href="https://instagram.com/raucheacho" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/raucheacho/github-readme-enhancer/main/src/images/icons/Social/instagram.svg"
+      src="./assets/instagram.svg"
       alt="raucheacho" height="30" width="40" /></a>
   <a href="https://www.youtube.com/raucheacho" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/raucheacho/github-readme-enhancer/main/src/images/icons/Social/youtube.svg"
+      src="./assets/youtube.svg"
       alt="raucheacho" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/raucheacho/github-readme-enhancer/main/src/images/icons/Social/twitter.svg"
+ <a href="https://twitter.com/raucheacho" target="blank"><img align="center"
+      src="./assets/twitter.svg"
       alt="raucheacho" height="30" width="40" /></a>
 </p>
 

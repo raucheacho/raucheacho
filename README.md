@@ -3,19 +3,26 @@
 <img alt="Rauche Acho" src="https://avatars.githubusercontent.com/u/19928343?v=4" width='50' align="left"/><h1>Rauche Acho</h1>
 
 > Systems Engineering for Real-Time Interactive Applications  
-> Go · Zig · Godot · WebAssembly
+
+Go · Zig · Godot · WebAssembly
 
 Je descends à la mémoire quand les abstractions fuient.  
-Architecture serveurs haute charge, moteurs temps réel, et optimisation bare metal.
+Architecture serveurs haute charge, moteurs temps réel, optimisation bare metal.
 
-Pas de tutos. Que de l'architecture qui tient la charge.
-
-🎥 [YouTube](https://www.youtube.com/raucheacho) · 💼 [LinkedIn](https://linkedin.com/in/raucheacho) · 📧 contact@raucheacho.com
-
-### Stack
+**Stack Systems**
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8)&nbsp;
 ![Zig](https://img.shields.io/badge/-Zig-05122A?style=flat&logo=zig&logoColor=F7A41D)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![Godot](https://img.shields.io/badge/-Godot-05122A?style=flat&logo=godot-engine&logoColor=478CBF)&nbsp;
-![WebAssembly](https://img.shields.io/badge/-WebAssembly-05122A?style=flat&logo=webassembly&logoColor=654FF0)
+![WebAssembly](https://img.shields.io/badge/-WASM-05122A?style=flat&logo=webassembly&logoColor=654FF0)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RaucheAcho&show_icons=true&bg_color=0d1117&title_color=F7A41D&icon_color=00ADD8&text_color=ffffff&hide_border=true)
+**Infra & Tooling**
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim&logoColor=57A143)
+
+📺 [YouTube](https://www.youtube.com/raucheacho) · 💼 [LinkedIn](https://linkedin.com/in/raucheacho) · 📧 contact@raucheacho.com
+
+![Stats](https://github-readme-stats.vercel.app/api?username=RaucheAcho&show_icons=true&bg_color=0d1117&title_color=F7A41D&icon_color=00ADD8&text_color=ffffff&hide_border=true&hide=issues,contribs)

@@ -6,8 +6,8 @@
 
 Go · Zig · Godot · WebAssembly
 
-Je descends à la mémoire quand les abstractions fuient.  
-Architecture serveurs haute charge, moteurs temps réel, optimisation bare metal.
+Build d'applis complexes et lectures techniques. 
+J'aime comprendre comment les choses marchent vraiment — sans les abstractions, et sans se prendre la tête.
 
 **Stack Systems**
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8)&nbsp;

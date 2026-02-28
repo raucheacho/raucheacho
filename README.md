@@ -6,8 +6,8 @@
 
 Go · Zig · Godot · WebAssembly
 
-Build d'applis complexes et lectures techniques. 
-J'aime comprendre comment les choses marchent vraiment — sans les abstractions, et sans se prendre la tête.
+Build d'applis complexes et lectures techniques. J'aime comprendre comment les choses 
+marchent vraiment — sans les abstractions, et sans se prendre la tête.
 
 **Stack Systems**
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8)&nbsp;
@@ -24,5 +24,3 @@ J'aime comprendre comment les choses marchent vraiment — sans les abstractions
 ![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim&logoColor=57A143)
 
 📺 [YouTube](https://www.youtube.com/raucheacho) · 💼 [LinkedIn](https://linkedin.com/in/raucheacho) · 📧 contact@raucheacho.com
-
-![Stats](https://github-readme-stats.vercel.app/api?username=RaucheAcho&show_icons=true&bg_color=0d1117&title_color=F7A41D&icon_color=00ADD8&text_color=ffffff&hide_border=true&hide=issues,contribs)
